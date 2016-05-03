@@ -1,0 +1,28 @@
+{
+  "name": "webgrade",
+  "version": "0.0.0",
+  "description": "Measure a text's readability ease and grade using Flesch–Kincaid readability tests",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencevans/webgrade.git"
+  },
+  "author": "Ben Evans <ben@bensbit.co.uk> (http://bensbit.co.uk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bencevans/webgrade/issues"
+  },
+  "homepage": "https://github.com/bencevans/webgrade#readme",
+  "dependencies": {
+    "syllable": "^0.1.4",
+    "word-count": "^0.2.2"
+  },
+  "devDependencies": {
+    "standard": "^7.0.0",
+    "tape": "^4.5.1"
+  }
+}
