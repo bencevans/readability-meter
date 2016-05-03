@@ -1,6 +1,6 @@
 {
   "name": "webgrade",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Measure a text's readability ease and grade using Flesch–Kincaid readability tests",
   "main": "index.js",
   "scripts": {
