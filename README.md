@@ -2,6 +2,10 @@
 
 > Measure a text's readability ease and grade using [Flesch–Kincaid readability tests](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests)
 
+## Requirements
+
+* Node.js 6+
+
 ## Usage
 
 ```js
