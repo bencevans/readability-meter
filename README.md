@@ -6,6 +6,10 @@
 
 * Node.js 6+
 
+## Install
+
+    $ npm install readability-meter --save
+
 ## Usage
 
 ```js
